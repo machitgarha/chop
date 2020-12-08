@@ -27,6 +27,8 @@ int main()
 
 Certainly not. It is all about a matter of taste. You may prefer `std::cout`. Yes, `std::cout` is just good, but the function form makes me and my fingers happy.
 
+Also note that, Chop uses `std::cout` under the hood.
+
 ## Miscellaneous
 
 ### So, chop is another Persian word?
