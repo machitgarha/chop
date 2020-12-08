@@ -11,13 +11,12 @@ using namespace MAChitgarha::Chop;
 
 int main()
 {
-    const int
-        x = 313,
-        y = 0;
+    printLine("The only one-digit prime numbers are:");
 
-    std::co
-
-    printLine(x, " + ", y, " == ", x + y);
+    print("2");
+    for (int i : {3, 5, 7}) {
+        print(", ", i);
+    }
     printLine();
 
     return 0;
