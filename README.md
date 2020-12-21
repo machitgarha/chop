@@ -40,4 +40,7 @@ Also note that, Chop uses `std::cout` under the hood.
 
 Hmm... Yes. It is identical to print.
 
-## This is Just Edit !
+### License
+
+Licensed under Apache License v2.0.
+
