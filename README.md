@@ -27,7 +27,8 @@ int main()
 }
 ```
 
-## So std::cout is bad?
+## So std::cout is bad ?
+
 
 Certainly not. It is all about a matter of taste. You may prefer `std::cout`. Yes, `std::cout` is just good, but the function form makes me and my fingers happy.
 
@@ -38,3 +39,5 @@ Also note that, Chop uses `std::cout` under the hood.
 ### So, 'Chop' is another Persian word?
 
 Hmm... Yes. It is identical to print.
+
+## This is Just Edit !
